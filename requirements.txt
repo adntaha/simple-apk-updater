@@ -1,0 +1,4 @@
+# just keep your stuff up to date okay>
+requests>=2.27.1 # is essential
+PyGithub>=1.55 # its for object interface, you could use requests instead but it'd look less pretty
+tqdm>=4.62.3 # tqdm is for pretty progress bars
