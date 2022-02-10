@@ -8,7 +8,7 @@ from tqdm import tqdm
 from github import Github
 from pathlib import Path
 
-git = Github(user_agent="ApkUpdaterByBotato/1.0")
+git = Github(user_agent="SimpleApkUpdater/1.0")
 apks = {}
 
 if ('-v' in sys.argv) or ('--verbose' in sys.argv):
